@@ -1,3 +1,9 @@
+# Disclaimer
+This code of conduct is limited to the Libre / Open-Source side of UpVent
+and it is not the actual labor conditions / conduct regulations inside the
+workplace itself.
+
+
 # Español :mx:
 
 [Código de Conducta](codigo-de-conducta.md)
