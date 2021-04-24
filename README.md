@@ -9,7 +9,7 @@ Este código de conducta se limita al lado Libre / Open-Source de UpVent.
 y no son las condiciones laborales / regulaciones de conducta reales dentro del
 lugar de trabajo en sí.
 
-# Español :mx:
+# Español :es:
 
 [Código de Conducta](codigo-de-conducta.md)
 
