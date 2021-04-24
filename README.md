@@ -3,6 +3,11 @@ This code of conduct is limited to the Libre / Open-Source side of UpVent
 and it is not the actual labor conditions / conduct regulations inside the
 workplace itself.
 
+# Descargo de responsabilidad
+
+Este código de conducta se limita al lado Libre / Open-Source de UpVent.
+y no son las condiciones laborales / regulaciones de conducta reales dentro del
+lugar de trabajo en sí.
 
 # Español :mx:
 

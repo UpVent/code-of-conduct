@@ -1,75 +1,85 @@
-# THE FOSS CODE OF CONDUCT
+# CÓDIGO DE CONDUCTA DEL CÓDIGO ABIERTO Y LIBRE
 
 - VERSION: 1.0
 - DATE: April 23, 2021
-- AUTHOR: Derek Taylor
+- AUTHOR: Derek Taylor, Omar Jair (traducción)
 
-This code of conduct is written to guide an individual’s choices and actions within the free and open source software (FOSS) community.  This code will help one determine the purpose and the course of his work as well as his place as a member of this community.
+Este código de conducta está escrito para guiar las elecciones y acciones de un individuo dentro de la comunidad de software libre y de código abierto (FOSS). Este código ayudará a determinar el propósito y el curso de su trabajo, así como su lugar como miembro de esta comunidad.
 
-## 1. THE ETHIC OF RECIPROCITY
+## 1. LA ÉTICA DE LA RECIPROCIDAD
 
-The most fundamental ethic is that of reciprocity–treat others as you would like others to treat you.  Ask yourself if you are treating others in a manner that they would not treat you?  If so, then your actions are out of bounds and you should cease those actions.  Emotional reactions should be calculated carefully.  Before acting, decide how the potential response might benefit you and/or the community and how it might hinder you and/or the community.
+La ética más fundamental es la de la reciprocidad: 
 
+> "Trata a los demás como te gustaría que te trataran a ti. "
 
-## 2. POLITICAL ACTIVISM
-
-While there is certainly a political element to the free software movement and open source software movement, political activism outside of the scope of those movements has no place in this community.  The number one political agenda for any free and open source project should be the promotion of free and open source software.  Any other political messages could distract or divert people from our primary mission.  This is unacceptable!  When you are here, you are fighting for free and open source software.  If you want to also fight for causes like social justice or human rights (which are certainly noble causes), then you should join an organization whose primary goal is to fight for those causes.
-
-
-## 3. ACTIONS DEFINE US
-
-People should not be prejudged because of their race, ethnicity, nationality, religious beliefs, gender identity, sexual orientation, age or gender, but rather evaluated on their accomplishments and actions.  Harassment and discrimination should not and will not be tolerated.  Instead, you be judged on your actions. And based on your actions, you will either succeed with your achievements or fail due to your incompetence or impotence.
+Pregúntate si estás tratando a los demás de una manera en la que ellos no te tratarían a ti. Si es así, tus acciones están fuera de los límites y debes evitar/cesar esas acciones. Las reacciones emocionales deben manejarse con cuidado. Antes de actuar, decide cómo vas a responder, pues la respuesta podría beneficiarte potencialmente a ti y / o la comunidad o en el caso contrario, podría perjudicarte a ti y / o a la comunidad.
 
 
-## 4. INEQUALITY
+## 2. ACTIVISMO POLITICO
 
-On equality: no two people are the same.  Common sense should dictate that no two individuals have the exact same strength, intelligence, strive to succeed, perseverance, etc.  When you claim that two people are equal, it is insulting to both individuals.  The term inequality should not have a negative connotation; in fact, our inequality should be celebrated.  It is what makes each of us unique, and it is what makes our community diverse.
-
-
-## 5. ACCEPTANCE RATHER THAN TOLERANCE
-
-Acceptance is expected among our members, but not necessarily tolerance.  Tolerance is negative in connotation and in practice.  Tolerance means to endure with forbearance and restraint.  It implies that you must fight your own instincts.  Tolerance requires patience and causes stress and frustration.  More importantly, tolerance drains you of your vital energy.  Energy is not limitless so rather than wasting energy on tolerance, direct that energy towards something positive.  Acceptance is a positive emotion and should be practiced by our members.  Where tolerance focuses on the bad aspects of the person or situation, acceptance is seeing the good in the person or situation.  So when you find yourself becoming irritated at the behavior of others, look deeper and find the positive aspects that are there within each of us.
+Ciertamente existen elementos políticos en el movimiento del software libre y el movimiento del software de código abierto, el activismo político  se encuentra fuera del alcance de estos movimientos y, por lo tanto, no tiene lugar en esta comunidad. La agenda política número uno para cualquier proyecto de código abierto y libre debería ser la promoción del software libre y de código abierto. Cualquier otro mensaje político podría distraer o desviar a la gente de nuestra misión principal. ¡Esto es inaceptable! Cuando estás aquí, estás luchando por el software libre y de código abierto. Si también quieres luchar por causas como la justicia social o los derechos humanos (que, sin duda son causas nobles), entonces debes de unirte a una organización cuyo objetivo principal sea luchar por esas causas.
 
 
-## 6. DO NOT BE JUDGEMENTAL
+## 3. NUESTRAS ACCIONES NOS DEFINEN
 
-Do not judge others, either externally (verbally or in writing) or internally (in your own private thoughts).  The practice of judging and condemning is a negative emotion and is the sign of a shallow intellect.  Typically, the ones who are condemning are doing so because of their own inadequacies.  Those that condemn others are often trying to focus on the negative aspects of others to avoid the pain of recognizing the negative aspects of themselves.  A wise man once said, “Judge not, lest you be judged.”
-
-
-## 7. VICTIM MENTALITY AND MARTYRDOM
-
-Some people are habitual victims, seeking personal attention all the time.  When someone is committed to being a victim, everyone else is to blame, and there is absolutely no hope whatsoever for this person.  The victim only has one cause–themself.  Some victims prefer to play the role of martyr.  They often pick fights in order to lose–to be the victim, to be the martyr.  Martyrdom is often used by weaklings who cannot admit defeat or admit that they were wrong.  If you are in a situation were martyrdom is your only course of action, then you are probably championing the wrong cause.  Victim mentality and self-martyrdom will not be tolerated.
+Las personas no deben (ni deberían) sufrir prejuicios de ninguna índole por su raza, etnia, nacionalidad, creencias religiosas, identidad de género, orientación sexual, edad o sexo, sino más bien evaluadas por sus logros y acciones. El acoso y la discriminación no deben ser, ni serán tolerados . En cambio, serás juzgado por tus acciones. Y según tus acciones, tendrás éxito con tus logros o fracasarás debido a tu incompetencia.
 
 
-## 8. YOUR VALUE TO THE COMMUNITY
+## 4. DESIGUALDAD
 
-We as human beings tend to over-valuate ourselves, always thinking we are worth more than we actually are.  No one ever claims that they are overpaid or treated too well by others.  We think we are owed.  We are clothed psychologically with pretenses and fraud, but we have to understand that the market is never wrong.  You may think that you deserve more money, greater respect or better treatment; but if no one is willing to give you these things, then the market has priced you accordingly.  You must learn to evaluate yourself as an impartial observer.
+Sobre la igualdad: **No hay dos personas iguales.**
 
+El sentido común debería dictar que no hay dos individuos que tengan exactamente la misma fuerza, inteligencia, esfuerzo por triunfar, perseverancia, etc. Cuando afirmas que dos personas son iguales, esto podría ser un insulto para ambos individuos. El término desigualdad no debe tener una connotación negativa; de hecho, nuestra desigualdad debe celebrarse. Es lo que nos hace únicos a cada uno de nosotros y es lo que hace que nuestra comunidad sea diversa.
 
-## 9. COOPERATION AND COMPETITON
-
-While cooperation is the foundation of a healthy community and should be encouraged, competition among individuals should also be encouraged.  The brutal fact is that the more we opt out of competition, the lower our position in the community is likely to be.  Being competitive is necessary for one to succeed and to rise above the ranks.  So if you feel yourself slipping down the ranks of the pecking order, recognize that others are outcompeting you; and do something about it!
-
-
-# ENFORCING THE CODE OF CONDUCT
-
-The following actions are available to community leaders in the event that disciplinary action needs to be taken:
+>  Esta sección no deberá usarse como justificación para demeritar / discriminar a ningún indivíduo de la comunidad. Si aún existen dudas de como se maneja esta sección vuelva a leer las secciones **2** y **3** respectivamente.
 
 
-## 1. VERBAL WARNING
+## 5. ACEPTACIÓN EN LUGAR DE TOLERANCIA
 
-The verbal warning should be a private consultation from a community leader who should explain the violation and prescribe any corrective actions, such as a public or private apology.
-
-
-## 2. WRITTEN WARNING
-
-The written warning is a formal warning that should be part of the member’s permanent record.  The written warning is appropriate if the member being disciplined has already received a verbal warning, or if the offense warrants skipping the verbal warning altogether.
+Se espera aceptación entre nuestros miembros, pero no necesariamente tolerancia. La tolerancia es negativa en connotación y en la práctica. Tolerancia significa soportar con paciencia y moderación. Implica que debes luchar contra tus propios instintos. La tolerancia requiere paciencia y causa estrés y frustración. Más importante aún, la tolerancia le quita su energía vital / motivación. La energía no es ilimitada, así que en lugar de gastar energía en tolerancia, dirija esa energía hacia algo positivo. La aceptación es una emoción positiva y nuestros miembros deben practicarla. Donde la tolerancia se enfoca en los aspectos negativos de la persona o situación, la aceptación es ver lo bueno en la persona o situación. Entonces, cuando se sienta irritado por el comportamiento de los demás, mire más profundamente y encuentre los aspectos positivos que hay dentro de cada uno de nosotros.
 
 
-## 3. TEMPORARY BAN
+## 6. NO SEA PREJUICIOSO
 
-The temporary ban should be used for serious violations of the Code of Conduct.  The member being disciplined is banned from any kind of interaction, public or private, with the community for a specified time.
+No juzgues a los demás, ya sea  de forma externa (verbal o por escrito), si lo haces de forma interna (en tus propios pensamientos) guarda dichas opiniones para ti mismo. La práctica de juzgar y condenar es una emoción negativa y es el signo de un complejo de inferioridad o de un ego muy frágil. Por lo general, los que condenan o señalan a los demás en base a prejuicios, lo hacen debido a sus propias deficiencias. Aquellos que juzgan a otros a menudo tratan de enfocarse en los aspectos negativos de los demás para evitar el dolor de reconocer los aspectos negativos de ellos mismos. Un hombre sabio dijo una vez: "No juzguéis, para que no seáis juzgados".
 
 
-## 4. PERMANENT BAN
-A permanent ban is appropriate when the member being disciplined has proven that he cannot abide by the Code of Conduct.   The member being disciplined is banned from any kind of interaction, public or private, with the community.  This ban is permanent and irrevocable.
+## 7. MENTALIDAD DE VÍCTIMA/MÁRTIR
+
+Algunas personas son víctimas habituales y buscan atención personal todo el tiempo. Cuando alguien se compromete a ser una víctima, todos los demás tienen la culpa y no hay absolutamente ninguna esperanza para esta persona, quien usualmente se encuentra fuera de la recuperación intelectual. La víctima solo tiene una causa: *Su propia persona y nadie más*. Algunas víctimas prefieren jugar el papel de mártir. A menudo eligen peleas para perder: ser la víctima, el mártir. El martirio lo utilizan a menudo los débiles que no pueden admitir la derrota o admitir que se equivocaron. Si te encuentras en una situación en la que el martirio es tu único curso de acción, es probable que estés defendiendo la causa equivocada. No se tolerará la mentalidad de víctima ni el auto-martirio.
+
+> Esta sección no deberá usarse como justificación para demeritar / discriminar a ningún indivíduo de la comunidad. Si aún existen dudas de como se maneja esta sección vuelve a leer las secciones **2** y **3** respectivamente.
+
+
+## 8. TU VALOR PARA LA COMUNIDAD
+
+Nosotros, como seres humanos, tendemos a sobrevalorarnos, siempre pensando que valemos más de lo que realmente somos. Nadie afirma que recibe demasiado dinero o que lo tratan demasiado bien. Creemos que se nos debe. Estamos llenos de pretensiones y fraudes, pero tenemos que entender que el *"mercado"* nunca se equivoca. Puedes pensar que te  mereces más dinero, más respeto o un mejor trato; pero si nadie está dispuesto a darte estas cosas, entonces el *"mercado"* te ha asignado un precio correspondiente. Debes aprender a evaluarte a ti mismo como un observador imparcial.
+
+>  Esta sección no deberá usarse como justificación para demeritar / discriminar a ningún indivíduo de la comunidad. Si aún existen dudas de como se maneja esta sección vuelve a leer las secciones **2** y **3** respectivamente.
+
+## 9. COOPERACIÓN Y COMPETENCIA
+
+Si bien la cooperación es la base de una comunidad saludable y debe alentarse, también debe alentarse la competencia/competitividad entre individuos. El hecho brutal es que cuanto más optemos por excluirnos de la competencia, es probable que nuestra posición en la comunidad sea más baja. Ser competitivo es necesario para que uno tenga éxito y se eleve por encima de los rangos. Entonces, si sientes que te deslizas hacia abajo en las filas del orden *"jerárquico"*, reconoce que otros están compitiendo contigo; y haz algo al respecto!
+
+# APLICACIÓN DEL CÓDIGO DE CONDUCTA
+
+Las siguientes acciones están disponibles para los líderes comunitarios en caso de que sea necesario tomar medidas disciplinarias:
+
+
+## 1. ADVERTENCIA VERBAL
+
+La advertencia verbal debe ser una consulta privada de un líder comunitario que debe explicar la violación del código de conducta y asignar / prescribir cualquier acción correctiva que considere correcta, como una disculpa pública o privada.
+
+
+## 2. ADVERTENCIA ESCRITA
+
+La advertencia escrita es una advertencia formal que debe formar parte del registro permanente del miembro. La advertencia escrita es considerada apropiada si el miembro que está siendo disciplinado ya ha recibido una o varias advertencia verbal, o si la ofensa es lo suficientemente fuerte para justificar la omisión de una advertencia verbal por completo.
+
+
+## 3. EXPULSIÓN TEMPORAL
+
+La expulsión temporal debe utilizarse para violaciones graves al Código de Conducta. El miembro que está siendo disciplinado tiene prohibido cualquier tipo de interacción, pública o privada, con la comunidad por un tiempo específico que será determinado por los líderes comunitarios.
+
+
+## 4. EXPULSIÓN PERMANENTE
+Una expulsión permanente es apropiada cuando el miembro que está siendo disciplinado ha demostrado que no puede/no quiere cumplir con el Código de Conducta. El miembro que está siendo sancionado tiene prohibido cualquier tipo de interacción, pública o privada con la comunidad. Esta prohibición es permanente e irrevocable.
