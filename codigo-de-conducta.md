@@ -19,6 +19,13 @@ Pregúntate si estás tratando a los demás de una manera en la que ellos no te 
 
 Ciertamente existen elementos políticos en el movimiento del software libre y el movimiento del software de código abierto, el activismo político  se encuentra fuera del alcance de estos movimientos y, por lo tanto, no tiene lugar en esta comunidad. La agenda política número uno para cualquier proyecto de código abierto y libre debería ser la promoción del software libre y de código abierto. Cualquier otro mensaje político podría distraer o desviar a la gente de nuestra misión principal. ¡Esto es inaceptable! Cuando estás aquí, estás luchando por el software libre y de código abierto. Si también quieres luchar por causas como la justicia social o los derechos humanos (que, sin duda son causas nobles), entonces debes de unirte a una organización cuyo objetivo principal sea luchar por esas causas.
 
+### 2.1 ACTIVISMO POLÍTICO EN LOS REPOSITORIOS
+Como colaborador de UpVent, te pedimos, te abstengas de incluir en nuestros repositorios y proyectos cualquier contenido que no esté directamente relacionado con el software libre o código abierto. Esto incluye, pero no se limita a, mensajes de activismo fuera del alcance del software libre, anuncios irrelevantes, o cualquier otro contenido que no tenga relación con el código libre y abierto.
+
+Además, hacemos hincapié en que esto incluye cualquier símbolo, bandera o representación de cualquier índole, sin importar su origen político, ideológico o cultural. En UpVent creemos en la inclusión y en crear un ambiente de trabajo respetuoso para todos nuestros colaboradores, independientemente de sus creencias y opiniones personales, sin embargo nos enfocamos exclusivamente en el desarrollo de software libre y no apoyamos ni promovemos proyectos o iniciativas que no estén alineados con esta visión.
+
+Te agradecemos de antemano tu colaboración y compromiso con nuestra cultura de trabajo en UpVent. Juntos podemos crear software libre de alta calidad y contribuir al mundo del desarrollo de software.
+
 
 ## 3. NUESTRAS ACCIONES NOS DEFINEN
 
