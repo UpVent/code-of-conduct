@@ -1,8 +1,8 @@
 # CÓDIGO DE CONDUCTA DEL CÓDIGO ABIERTO Y LIBRE
 
-- VERSION: 1.0
-- DATE: April 23, 2021
-- AUTHOR: Derek Taylor, Omar Jair (traducción)
+- VERSION: 1.2
+- DATE: April 23, 2021 - April 27, 2023
+- AUTHOR: Derek Taylor, Omar Jair
 
 Este código de conducta está escrito para guiar las elecciones y acciones de un individuo dentro de la comunidad de software libre y de código abierto (FOSS). Este código ayudará a determinar el propósito y el curso de su trabajo, así como su lugar como miembro de esta comunidad.
 
@@ -67,6 +67,9 @@ Nosotros, como seres humanos, tendemos a sobrevalorarnos, siempre pensando que v
 ## 9. COOPERACIÓN Y COMPETENCIA
 
 Si bien la cooperación es la base de una comunidad saludable y debe alentarse, también debe alentarse la competencia/competitividad entre individuos. El hecho brutal es que cuanto más optemos por excluirnos de la competencia, es probable que nuestra posición en la comunidad sea más baja. Ser competitivo es necesario para que uno tenga éxito y se eleve por encima de los rangos. Entonces, si sientes que te deslizas hacia abajo en las filas del orden *"jerárquico"*, reconoce que otros están compitiendo contigo; y haz algo al respecto!
+
+## 10. OPINIONES PERSONALES EN REDES SOCIALES
+En UpVent valoramos la libertad de expresión y respetamos la opinión personal de cada uno de nuestros colaboradores, sin embargo, nos desligamos de cualquier opinión o comentario expresado por ellos en sus redes sociales o plataformas personales. Cada colaborador es responsable de sus propias acciones y palabras fuera del ámbito de trabajo en UpVent. Nos enfocamos exclusivamente en el desarrollo de software libre y cualquier opinión o comentario expresado fuera de este ámbito no refleja necesariamente los valores o posturas de nuestra organización.
 
 # APLICACIÓN DEL CÓDIGO DE CONDUCTA
 
