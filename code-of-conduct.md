@@ -15,6 +15,12 @@ The most fundamental ethic is that of reciprocity–treat others as you would li
 
 While there is certainly a political element to the free software movement and open source software movement, political activism outside of the scope of those movements has no place in this community.  The number one political agenda for any free and open source project should be the promotion of free and open source software.  Any other political messages could distract or divert people from our primary mission.  This is unacceptable!  When you are here, you are fighting for free and open source software.  If you want to also fight for causes like social justice or human rights (which are certainly noble causes), then you should join an organization whose primary goal is to fight for those causes.
 
+## 2.1 POLITICAL ACTIVISM IN REPOSITORIES
+As a collaborator of UpVent, we kindly ask you to refrain from including any content in our repositories and projects that is not directly related to free and open source software. This includes, but is not limited to, activism messages outside the scope of free software, irrelevant announcements, or any other content that is not related to free and open source code.
+
+Furthermore, we emphasize that this includes any symbol, flag, or representation of any kind, regardless of its political, ideological, or cultural origin. At UpVent, we believe in inclusion and creating a respectful work environment for all our collaborators, regardless of their personal beliefs and opinions. However, we focus exclusively on the development of free software and do not support or promote projects or initiatives that are not aligned with this vision.
+
+We appreciate your cooperation and commitment to our work culture at UpVent. Together, we can create high-quality free software and contribute to the world of software development.
 
 ## 3. ACTIONS DEFINE US
 
