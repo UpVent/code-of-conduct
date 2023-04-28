@@ -1,8 +1,8 @@
 # THE FOSS CODE OF CONDUCT
 
-- VERSION: 1.0
-- DATE: April 23, 2021
-- AUTHOR: Derek Taylor
+- VERSION: 1.1
+- DATE: April 23, 2021 - April 27, 2023
+- AUTHOR: Derek Taylor, Omar Jair
 
 This code of conduct is written to guide an individual’s choices and actions within the free and open source software (FOSS) community.  This code will help one determine the purpose and the course of his work as well as his place as a member of this community.
 
@@ -56,6 +56,8 @@ We as human beings tend to over-valuate ourselves, always thinking we are worth 
 
 While cooperation is the foundation of a healthy community and should be encouraged, competition among individuals should also be encouraged.  The brutal fact is that the more we opt out of competition, the lower our position in the community is likely to be.  Being competitive is necessary for one to succeed and to rise above the ranks.  So if you feel yourself slipping down the ranks of the pecking order, recognize that others are outcompeting you; and do something about it!
 
+## 10. PERSONAL OPINIONS ON SOCIAL MEDIA
+At UpVent, we value freedom of expression and respect the personal opinion of each of our collaborators. However, we disassociate ourselves from any opinions or comments expressed by them on their personal social media or platforms. Each collaborator is responsible for their own actions and words outside the scope of work at UpVent. We focus exclusively on the development of free and open-source software, and any opinion or comment expressed outside of this scope does not necessarily reflect the values or positions of our organization.
 
 # ENFORCING THE CODE OF CONDUCT
 
